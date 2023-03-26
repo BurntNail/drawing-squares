@@ -1,0 +1,11 @@
+[package]
+name = "drawing-squares"
+description = "A packing for drawing grids of coloured cells onto a screen. Useful for Cellular Automata and quick prototyping"
+license = "MIT"
+version = "0.2.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies.piston_window]
+version = "0.120.0"
